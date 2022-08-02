@@ -16,7 +16,7 @@ When implementing a new feature or fixing a bug, please create a new pull reques
 
 - After verifying that Docker is up to date and ready to use, `cd` into the cloned repo, and from the root directory run the command '`docker-compose up`'. If Docker is working as expected, this will fire up both the frontend and backend servers.
 
-    - To test the backend visit [localhost:3000/api/ping](http://localhost:3000/api/ping)
+    - To test the backend visit [:3000/api/ping](http://localhost:3000/api/ping)
 
-    - To test the frontend visit [localhost:3001/register](http://localhost:3001/register) and create a new user before moving on.    
+    - To test the frontend visit [:3001/register](http://localhost:3001/register) and create a new user before moving on.    
 
